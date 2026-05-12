@@ -166,10 +166,6 @@ POST /auth/login
 POST /auth/refresh
 ```
 
-### Logout
-```http
-POST /auth/logout
-```
 
 ---
 
