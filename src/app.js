@@ -36,7 +36,7 @@ app.use("/auth",limiter, authRouter);
 app.use("/users", userRouter);
 
 //tasks routes
-app.use('/task', taskRoutes);
+app.use('/tasks', taskRoutes);
 
 
 export default app;
